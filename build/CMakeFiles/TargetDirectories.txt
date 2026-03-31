@@ -1,3 +1,0 @@
-D:/Git_Projects/cpp-kv-store/cpp-kv-store/build/CMakeFiles/cpp-kv-store.dir
-D:/Git_Projects/cpp-kv-store/cpp-kv-store/build/CMakeFiles/edit_cache.dir
-D:/Git_Projects/cpp-kv-store/cpp-kv-store/build/CMakeFiles/rebuild_cache.dir
