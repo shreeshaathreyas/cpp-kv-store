@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cpp-kv-store.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\cpp-kv-store.dir/objects.a @CMakeFiles\cpp-kv-store.dir\objects1.rsp
+C:\msys64\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\cpp-kv-store.dir/objects.a -Wl,--no-whole-archive -o cpp-kv-store.exe -Wl,--out-implib,libcpp-kv-store.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cpp-kv-store.dir\linkLibs.rsp
